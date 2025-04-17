@@ -21,6 +21,7 @@ web-scraping-task/
 │
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
+```
 
 
 ## ⚙️ Setup Instructions
