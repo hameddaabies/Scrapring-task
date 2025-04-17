@@ -8,8 +8,20 @@ This project includes two Python-based web scrapers targeting real e-commerce we
 - WoodBridge Scraper: Extracts pricing, availability, images, and customer reviews from https://www.woodbridgebath.com
 
 ## 📁 Project Structure
-<pre> ├── ROCA/ │ ├── Roca_script.py # Scraper for Roca website │ └── output.json # Cleaned Roca product data │ </pre>
- </pre> ├── WoodBridge/ │ ├── WB_script.py # Scraper for WoodBridge website │ └── output.json # Cleaned WoodBridge product data │ ├── requirements.txt # Python dependencies └── README.md # Project documentation </code> </pre>
+
+```text
+web-scraping-task/
+├── ROCA/
+│   ├── Roca_script.py           # Scraper for Roca website
+│   └── output.json              # Cleaned Roca product data
+│
+├── WoodBridge/
+│   ├── WB_script.py             # Scraper for WoodBridge website
+│   └── output.json              # Cleaned WoodBridge product data
+│
+├── requirements.txt             # Python dependencies
+└── README.md                    # Project documentation
+
 
 ## ⚙️ Setup Instructions
 
