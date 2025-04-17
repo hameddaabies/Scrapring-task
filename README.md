@@ -1,60 +1,61 @@
 # Web Scraping & Data Processing Task
 
-## Overview
-This project includes two web scrapers targeting real e-commerce websites that sell smart toilets.
-Each scraper extracts structured product data, cleans it, and stores it in JSON format.
+## 📌 Overview
+This project includes two Python-based web scrapers targeting real e-commerce websites that sell smart toilets. Each scraper extracts structured product data, cleans it, and stores it in JSON format.
 
-### Scrapers:
-- **ROCA Scraper:** Extracts detailed technical product specs from https://www.us.roca.com
-- **WoodBridge Scraper:** Extracts pricing, availability, product images, and user reviews from https://www.woodbridgebath.com
+## 🧠 Scrapers
+- ROCA Scraper: Extracts detailed technical product specifications from https://www.us.roca.com  
+- WoodBridge Scraper: Extracts pricing, availability, images, and customer reviews from https://www.woodbridgebath.com
 
-## Project Structure
+## 📁 Project Structure
 web-scraping-task/
 ├── ROCA/
-│   ├── Roca_script.py               # Roca product scraper
-│   └── output.json                  # Cleaned output data
+│   ├── Roca_script.py         # Scraper for Roca website
+│   └── output.json            # Cleaned Roca product data
 ├── WoodBridge/
-│   ├── WB_script.py                 # Woodbridge product scraper
-│   └── output.json                  # Cleaned output data
-├── requirements.txt                 # Python dependencies
-└── README.md                        # Project documentation
+│   ├── WB_script.py           # Scraper for WoodBridge website
+│   └── output.json            # Cleaned WoodBridge product data
+├── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation
 
-## Setup Instructions
+## ⚙️ Setup Instructions
+
 1. Clone the repository:
-   git clone https://github.com/yourusername/web-scraping-task.git
-   cd web-scraping-task
+git clone https://github.com/hameddaabies/Scrapring-task.git  
+cd Scrapring-task
 
-2. Create and activate a virtual environment:
-   python -m venv venv
-   source venv/bin/activate      # On Windows: venv\Scripts\activate
+2. Create & activate a virtual environment:
+python -m venv venv  
+venv\Scripts\activate  (Windows)  
+source venv/bin/activate (Mac/Linux)
 
-3. Install dependencies:
-   pip install -r requirements.txt
+3. Install required dependencies:
+pip install -r requirements.txt
 
-## Usage
-Run Roca scraper:
-cd ROCA
+## ▶️ Usage
+
+Run ROCA scraper:
+cd ROCA  
 python Roca_script.py
 
 Run WoodBridge scraper:
-cd WoodBridge
+cd WoodBridge  
 python WB_script.py
 
-## Output
-Modify the output path in the code in saving the json data at the end of main function 
-Each scraper will generate a structured `.json` file containing all extracted product data.
+The output .json file will be saved in the same folder as the script. You can modify the output path inside the script if needed.
 
-- roca_products.json – includes title, dimensions, color, reference code, specs, technical drawings, BIM files, and links.
-- woodbridge_products.json – includes title, price, old price, discount, availability, images, features, description, documents, and reviews.
+## 📦 Output Files
+ROCA/output.json: Includes product title, collection, dimensions, color, reference code, specs, technical drawings, and 3D/BIM resources.  
+WoodBridge/output.json: Includes product title, price, old price, discount info, availability, product images, features, descriptions, documents, and customer reviews.
 
-## Libraries Used
-- beautifulsoup4
-- selenium
-- webdriver-manager
-- requests
-- lxml
-- json (built-in)
+## 🛠️ Libraries Used
+beautifulsoup4  
+selenium  
+webdriver-manager  
+requests  
+lxml  
+json (built-in)
 
-## Author
-- Hamed Daabies
-- GitHub: https://github.com/yourusername
+## 👤 Author
+Hamed Daabies  
+GitHub: https://github.com/hameddaabies
