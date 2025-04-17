@@ -1,0 +1,1342 @@
+[
+    {
+        "Product Page URL": "https://www.us.roca.com/products/round-back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-342526..0?sku=A342526000",
+        "Title": "ROUND - Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Inspira",
+        "ref": "A342526000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 12/16 x 25 6/16 x 31 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B7EBFBF25-3A77-4DD5-940F-D38808D2830D%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B945E1014-9F60-43E2-B6ED-A1DC2C0FC2EE%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A342526000/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "RimType": "Closed",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B53383A4A-5AA3-400A-A855-41A6F29C7FDE%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAE081613-F0D4-4875-A638-C96D0DF3CD3B%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF3343F75-D23F-45C4-889B-9186DB6BEA95%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5CC9BA7B-DECE-4762-BD34-A2B8EB063994%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B51A46CD8-D1C0-43FF-999B-1BDCAC88B380%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF1032459-EC42-479C-AA54-50168F214543%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B0C72B40A-1956-40F7-A8C2-54596FA285D8%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF7A07988-CC5F-4AB2-89DA-35368190B8DF%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B21E7BE99-191C-4835-924E-945BE0F1B136%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5B34DFC2-474B-47F0-A47F-F23C82CBA4F3%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342526xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342526xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B945E1014-9F60-43E2-B6ED-A1DC2C0FC2EE%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/round-back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-342526..0?sku=A342526620",
+        "Title": "ROUND - Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Inspira",
+        "ref": "A342526620",
+        "Color": "Matt White",
+        "Dimensions (L/W/H)": "14 12/16 x 25 6/16 x 31 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B34607877-A40F-48A2-A09C-42305CFA97A1%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B945E1014-9F60-43E2-B6ED-A1DC2C0FC2EE%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A342526620/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "RimType": "Closed",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B53383A4A-5AA3-400A-A855-41A6F29C7FDE%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAE081613-F0D4-4875-A638-C96D0DF3CD3B%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF3343F75-D23F-45C4-889B-9186DB6BEA95%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5CC9BA7B-DECE-4762-BD34-A2B8EB063994%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B51A46CD8-D1C0-43FF-999B-1BDCAC88B380%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF1032459-EC42-479C-AA54-50168F214543%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B0C72B40A-1956-40F7-A8C2-54596FA285D8%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF7A07988-CC5F-4AB2-89DA-35368190B8DF%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B21E7BE99-191C-4835-924E-945BE0F1B136%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5B34DFC2-474B-47F0-A47F-F23C82CBA4F3%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342526xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342526xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B945E1014-9F60-43E2-B6ED-A1DC2C0FC2EE%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/round-back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-342526..0?sku=A342526640",
+        "Title": "ROUND - Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Inspira",
+        "ref": "A342526640",
+        "Color": "Onyx",
+        "Dimensions (L/W/H)": "14 12/16 x 25 6/16 x 31 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B43E2F702-C01B-4411-8635-69333EB9DCEE%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B945E1014-9F60-43E2-B6ED-A1DC2C0FC2EE%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A342526640/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "RimType": "Closed",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B53383A4A-5AA3-400A-A855-41A6F29C7FDE%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAE081613-F0D4-4875-A638-C96D0DF3CD3B%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF3343F75-D23F-45C4-889B-9186DB6BEA95%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5CC9BA7B-DECE-4762-BD34-A2B8EB063994%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B51A46CD8-D1C0-43FF-999B-1BDCAC88B380%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF1032459-EC42-479C-AA54-50168F214543%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B0C72B40A-1956-40F7-A8C2-54596FA285D8%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF7A07988-CC5F-4AB2-89DA-35368190B8DF%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B21E7BE99-191C-4835-924E-945BE0F1B136%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5B34DFC2-474B-47F0-A47F-F23C82CBA4F3%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342526xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342526xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B945E1014-9F60-43E2-B6ED-A1DC2C0FC2EE%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/square-back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-342536..0?sku=A342536000",
+        "Title": "SQUARE - Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Inspira",
+        "ref": "A342536000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 12/16 x 25 6/16 x 31 4/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BB4EFC8BD-B035-46D2-A8DB-573D90E85141%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B879992D7-637E-46A7-8C0A-08A2D039B533%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A342536000/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "RimType": "Closed",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Square"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B9945BD95-40EA-4B62-9153-10AA9E0BFFBD%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2569BAF7-BC73-4B42-9347-3D020F42658E%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5984E37F-1111-4911-B20A-01489B6C4774%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB1BA0C25-50BC-4F80-85B7-09DBAE923730%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B672D6F1B-2D56-407D-8AF2-23C6171C2AC9%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B9B1353D3-E6EB-40E2-9C8E-2C3741AD9349%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BBDC20A04-7E8D-4A5D-9EF4-4381DB2EAF80%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B240DAA47-457F-4B3B-AA45-F36E5FDE3B83%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B86B68EDD-D9B1-4BD4-8D00-0AD640725816%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB52C0306-30CF-4C54-90AF-E7FAEDD38154%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342536xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342536xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B879992D7-637E-46A7-8C0A-08A2D039B533%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/square-back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-342536..0?sku=A342536620",
+        "Title": "SQUARE - Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Inspira",
+        "ref": "A342536620",
+        "Color": "Matt White",
+        "Dimensions (L/W/H)": "14 12/16 x 25 6/16 x 31 4/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BE9B6B377-0928-461B-8301-7585DB8F2C52%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B879992D7-637E-46A7-8C0A-08A2D039B533%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A342536620/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "RimType": "Closed",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Square"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B9945BD95-40EA-4B62-9153-10AA9E0BFFBD%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2569BAF7-BC73-4B42-9347-3D020F42658E%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5984E37F-1111-4911-B20A-01489B6C4774%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB1BA0C25-50BC-4F80-85B7-09DBAE923730%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B672D6F1B-2D56-407D-8AF2-23C6171C2AC9%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B9B1353D3-E6EB-40E2-9C8E-2C3741AD9349%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BBDC20A04-7E8D-4A5D-9EF4-4381DB2EAF80%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B240DAA47-457F-4B3B-AA45-F36E5FDE3B83%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B86B68EDD-D9B1-4BD4-8D00-0AD640725816%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB52C0306-30CF-4C54-90AF-E7FAEDD38154%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342536xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342536xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B879992D7-637E-46A7-8C0A-08A2D039B533%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/square-back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-342536..0?sku=A342536640",
+        "Title": "SQUARE - Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Inspira",
+        "ref": "A342536640",
+        "Color": "Onyx",
+        "Dimensions (L/W/H)": "14 12/16 x 25 6/16 x 31 4/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B77DB72A1-89A7-4564-9960-D5662DBCB693%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B879992D7-637E-46A7-8C0A-08A2D039B533%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A342536640/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "RimType": "Closed",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Square"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B9945BD95-40EA-4B62-9153-10AA9E0BFFBD%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2569BAF7-BC73-4B42-9347-3D020F42658E%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5984E37F-1111-4911-B20A-01489B6C4774%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB1BA0C25-50BC-4F80-85B7-09DBAE923730%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B672D6F1B-2D56-407D-8AF2-23C6171C2AC9%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B9B1353D3-E6EB-40E2-9C8E-2C3741AD9349%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BBDC20A04-7E8D-4A5D-9EF4-4381DB2EAF80%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B240DAA47-457F-4B3B-AA45-F36E5FDE3B83%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B86B68EDD-D9B1-4BD4-8D00-0AD640725816%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB52C0306-30CF-4C54-90AF-E7FAEDD38154%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342536xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/342536xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B879992D7-637E-46A7-8C0A-08A2D039B533%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-3420B9..0?sku=A3420B9000",
+        "Title": "Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Beyond",
+        "ref": "A3420B9000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "15 9/16 x 27 12/16 x 31 2/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BB340D287-920F-41F1-85C7-5484D6D1DA80%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B73B3D862-D7FD-472D-9CC6-83F5993DB4AD%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A3420B9000/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Soft"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3F09433C-46B9-4ADD-A83F-1854C4E218F6%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF3CD6DDE-B349-47AB-8529-85701E9D9157%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BCC68DDD2-6EE9-478B-BD7C-D06155EC0D4F%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BBA89C909-31E4-43F0-93D9-FFDD2A36D295%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB784594F-059C-42A0-AB42-8B3A8F210474%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B34D93698-DEEE-436D-9313-A2DC9D86A10D%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B37955D6B-C2F3-4FE8-BE28-0BC38657F8D5%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BD46B6506-9554-43AE-BC39-815EC8F95868%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6ACDC34D-B314-4A47-B8BF-4D754D710272%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B25108EBA-5893-4DBD-AD63-90534A104E9F%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3420B9xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3420B9xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF4A2F2B1-903B-4D83-82F5-AEF81BD36602%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/back-wall-vitreous-china-two-piece-rimless-toilet-dual-outlet-3420B9..0?sku=A3420B9640",
+        "Title": "Back to wall vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Beyond",
+        "ref": "A3420B9640",
+        "Color": "Onyx",
+        "Dimensions (L/W/H)": "15 9/16 x 27 12/16 x 31 2/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B1BF97294-9FAC-4A0E-954E-6BDE35E68D13%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B73B3D862-D7FD-472D-9CC6-83F5993DB4AD%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A3420B9640/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Soft"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3F09433C-46B9-4ADD-A83F-1854C4E218F6%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF3CD6DDE-B349-47AB-8529-85701E9D9157%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BCC68DDD2-6EE9-478B-BD7C-D06155EC0D4F%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BBA89C909-31E4-43F0-93D9-FFDD2A36D295%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB784594F-059C-42A0-AB42-8B3A8F210474%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B34D93698-DEEE-436D-9313-A2DC9D86A10D%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B37955D6B-C2F3-4FE8-BE28-0BC38657F8D5%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BD46B6506-9554-43AE-BC39-815EC8F95868%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6ACDC34D-B314-4A47-B8BF-4D754D710272%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B25108EBA-5893-4DBD-AD63-90534A104E9F%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3420B9xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3420B9xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF4A2F2B1-903B-4D83-82F5-AEF81BD36602%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-two-piece-rimless-toilet-dual-outlet-3420A7..0?sku=A3420A7000",
+        "Title": "Vitreous china two-piece Rimless toilet with dual outlet",
+        "Collection": "Carmen",
+        "ref": "A3420A7000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 9/16 x 26 6/16 x 30 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B6C23C9C0-C1E0-43CB-ADFE-D016B95B96B0%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BE00A50D6-6A9C-47F1-9CE7-9470C6A73B77%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A3420A7000/",
+        "spec": {
+            "FeaturedTechnology": "Rimless",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario)",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B5233BE66-4BDD-45AB-BC22-2A95C329C85F%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB154BC48-9D61-4F02-BEFC-A1F56ECFD76E%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BBADC13F4-D1C0-4433-8AA3-DECB72DD3EAB%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B0B18D757-AB0B-44B3-9975-E39D38AE0C98%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF7E32316-28D3-4ADF-9100-DBAE81E8D4F9%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2E1CDA4B-49D6-47D8-9FE4-666E635C1997%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B84C5A947-B331-418C-A75B-CBFC6D9BCCDD%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BC6DAE5AD-E4AB-4D29-B30F-7638470A1069%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BBE4A679F-7148-4CA6-A74B-551198A3FB2B%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B06DA49BE-E612-4AF6-9019-5BF3E1A6E086%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3420A7xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3420A7xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE00A50D6-6A9C-47F1-9CE7-9470C6A73B77%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-two-piece-toilet-s-trap-12elongated-concealed-trap-way-3480R7..0?sku=A3480R7000",
+        "Title": "Vitreous china two-piece toilet S-Trap 12\", elongated, concealed trap-way",
+        "Collection": "Georgia",
+        "ref": "A3480R7000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "29 2/16 x 14 15/16 x 17 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=953f37bfaf0dc4734d16dadf3459a3e3&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=3dcc654e4cdaa91a70593f11c860ef48&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A3480R7000/",
+        "spec": {
+            "ComfortHeight": "Comfort height",
+            "ElbowIncluded": "Elbow included",
+            "FixingKit": "Included",
+            "FlushingJet": "Flushing jet",
+            "FlushingSystem": "Siphonic",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Dual (vario), Vertical",
+            "Rimless": "Roca Rimless\u00ae",
+            "STrapMinSetOutMM": "305",
+            "Shape": "Elongated",
+            "WaterInletSystem": "Bottom Inlet"
+        },
+        "docs": [
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=3dcc654e4cdaa91a70593f11c860ef48"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-two-piece-toilet-s-trap-12round-exposed-trap-way-34848R..0?sku=A34848R000",
+        "Title": "Vitreous china two-piece toilet S-Trap 12\", round, exposed trap-way",
+        "Collection": "Milano",
+        "ref": "A34848R000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 x 27 x 17 12/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=fae915a39abf084a7eec1fc946935ee1&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=45effcc38734d2fa691d789ca52c33f2&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A34848R000/",
+        "spec": {
+            "ComfortHeight": "Comfort height",
+            "ElbowIncluded": "Elbow included",
+            "FixingKit": "Included",
+            "FlushingJet": "Flushing jet",
+            "FlushingSystem": "Siphonic",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Vertical",
+            "RimType": "Closed",
+            "STrapMinSetOutMM": "305",
+            "Shape": "Round",
+            "WaterInletSystem": "Bottom Inlet"
+        },
+        "docs": [
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=45effcc38734d2fa691d789ca52c33f2"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-two-piece-toilet-s-trap-12elongated-exposed-trap-way-34848B..0?sku=A34848B000",
+        "Title": "Vitreous china two-piece toilet S-Trap 12\", elongated, exposed trap-way",
+        "Collection": "Milano",
+        "ref": "A34848B000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 x 28 15/16 x 17 12/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=ce5fc2852f1e33c77db8d0de991e9e26&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=b5708bfb6cbbac374dec8310bf69d430&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A34848B000/",
+        "spec": {
+            "ComfortHeight": "Comfort height",
+            "ElbowIncluded": "Elbow included",
+            "FixingKit": "Included",
+            "FlushingJet": "Flushing jet",
+            "FlushingSystem": "Siphonic",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Vertical",
+            "RimType": "Closed",
+            "STrapMinSetOutMM": "305",
+            "Shape": "Elongated",
+            "WaterInletSystem": "Bottom Inlet"
+        },
+        "docs": [
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=b5708bfb6cbbac374dec8310bf69d430"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-two-piece-toilet-s-trap-12elongated-concealed-34848H..0?sku=A34848H000",
+        "Title": "Vitreous china two-piece toilet S-Trap 12\", elongated, concealed",
+        "Collection": "Milano",
+        "ref": "A34848H000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 x 29 15/16 x 17 12/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=28536e039d83bdd1330131289169c6a0&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=0772f312269650aef7d303bd76721315&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A34848H000/",
+        "spec": {
+            "ComfortHeight": "Comfort height",
+            "ElbowIncluded": "Elbow included",
+            "FixingKit": "Included",
+            "FlushingJet": "Flushing jet",
+            "FlushingSystem": "Siphonic",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Vertical",
+            "RimType": "Closed",
+            "STrapMinSetOutMM": "305",
+            "Shape": "Elongated",
+            "WaterInletSystem": "Bottom Inlet"
+        },
+        "docs": [
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=0772f312269650aef7d303bd76721315"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/round-vitreous-china-rimless-wall-hung-toilet-horizontal-outlet-346527..0?sku=A346527000",
+        "Title": "ROUND - Vitreous china Rimless wall-hung toilet with horizontal outlet",
+        "Collection": "Inspira",
+        "ref": "A346527000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 9/16 x 22 1/16 x 17 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B2F01B01F-E8D3-4B5C-8285-A8D32A04FE36%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B85206687-1D1E-46BF-A29E-8F1FD51A260D%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A346527000/",
+        "spec": {
+            "EmblematicWorks": "14.0045",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "RimType": "Rimless",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B4AF94825-02D1-44C2-ACE6-97A129CE9534%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8E1BF2B3-57AD-44A6-8B96-9482099BC10F%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B14B35C1B-3FCF-4370-B8AD-ADD2E1FBBB9A%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE1917A1A-48EF-4124-B498-5B36998BE50F%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B624A9A78-C3E5-43E8-B2FC-1EA48AA9FA01%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8D34052F-6102-4AFB-B9FD-000069E12E3E%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2317C85D-7B5B-4A9B-B245-A488282061D2%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B70D70A4B-0142-4754-AACE-DEDF1FFB7F70%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAFD2A95F-97B5-470D-B6AC-9CDD778F91D0%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6757EC31-4262-48DA-AF0C-6DE6FE84FA60%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346527xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346527xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B85206687-1D1E-46BF-A29E-8F1FD51A260D%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/round-vitreous-china-rimless-wall-hung-toilet-horizontal-outlet-346527..0?sku=A346527620",
+        "Title": "ROUND - Vitreous china Rimless wall-hung toilet with horizontal outlet",
+        "Collection": "Inspira",
+        "ref": "A346527620",
+        "Color": "Matt White",
+        "Dimensions (L/W/H)": "14 9/16 x 22 1/16 x 17 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BAB78E671-40BA-424F-986A-E1C88A34B0B4%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B85206687-1D1E-46BF-A29E-8F1FD51A260D%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A346527620/",
+        "spec": {
+            "EmblematicWorks": "14.0045",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "RimType": "Rimless",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B4AF94825-02D1-44C2-ACE6-97A129CE9534%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8E1BF2B3-57AD-44A6-8B96-9482099BC10F%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B14B35C1B-3FCF-4370-B8AD-ADD2E1FBBB9A%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE1917A1A-48EF-4124-B498-5B36998BE50F%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B624A9A78-C3E5-43E8-B2FC-1EA48AA9FA01%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8D34052F-6102-4AFB-B9FD-000069E12E3E%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2317C85D-7B5B-4A9B-B245-A488282061D2%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B70D70A4B-0142-4754-AACE-DEDF1FFB7F70%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAFD2A95F-97B5-470D-B6AC-9CDD778F91D0%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6757EC31-4262-48DA-AF0C-6DE6FE84FA60%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346527xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346527xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B85206687-1D1E-46BF-A29E-8F1FD51A260D%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/round-vitreous-china-rimless-wall-hung-toilet-horizontal-outlet-346527..0?sku=A346527640",
+        "Title": "ROUND - Vitreous china Rimless wall-hung toilet with horizontal outlet",
+        "Collection": "Inspira",
+        "ref": "A346527640",
+        "Color": "Onyx",
+        "Dimensions (L/W/H)": "14 9/16 x 22 1/16 x 17 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B73CDB602-5B49-4609-9E2E-089DF492A7D1%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B85206687-1D1E-46BF-A29E-8F1FD51A260D%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A346527640/",
+        "spec": {
+            "EmblematicWorks": "14.0045",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "RimType": "Rimless",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B4AF94825-02D1-44C2-ACE6-97A129CE9534%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8E1BF2B3-57AD-44A6-8B96-9482099BC10F%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B14B35C1B-3FCF-4370-B8AD-ADD2E1FBBB9A%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE1917A1A-48EF-4124-B498-5B36998BE50F%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B624A9A78-C3E5-43E8-B2FC-1EA48AA9FA01%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8D34052F-6102-4AFB-B9FD-000069E12E3E%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2317C85D-7B5B-4A9B-B245-A488282061D2%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B70D70A4B-0142-4754-AACE-DEDF1FFB7F70%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAFD2A95F-97B5-470D-B6AC-9CDD778F91D0%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6757EC31-4262-48DA-AF0C-6DE6FE84FA60%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346527xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346527xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B85206687-1D1E-46BF-A29E-8F1FD51A260D%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/square-vitreous-china-rimless-wall-hung-toilet-horizontal-outlet-346537..0?sku=A346537000",
+        "Title": "SQUARE - Vitreous china Rimless wall-hung toilet with horizontal outlet",
+        "Collection": "Inspira",
+        "ref": "A346537000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 9/16 x 22 1/16 x 17 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BF3C78455-8815-4446-9DB4-0D95FE4AAB9D%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BAE7D0F72-3394-49AA-B8FE-6DAC63A2B1E3%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A346537000/",
+        "spec": {
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "RimType": "Rimless",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Square"
+        },
+        "docs": [
+            {
+                "Installation and user manuals": {
+                    "Installation Handbook": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6B4648E6-3A6C-4B29-AD0F-22F2B9DE13EB%7D"
+                }
+            },
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8C690EA0-0F12-48A0-9AF0-B669BB66414D%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BFC054FBB-2E84-4452-8FF5-66CCBB4090CB%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3115DDFA-58E5-461F-B157-4E463E42A685%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B595C4B5B-6A44-46E1-9D6E-6615C4F15124%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAA235B55-2AC2-4747-89AD-1548D21FDFAC%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF24C8C22-075D-4A8D-9EFD-E58AA1AA0487%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE32B8593-1CF2-4446-B050-EE3F61FF71AC%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B55CC2C4C-1AB0-453B-998F-4A134BBACC4D%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2B50F3F8-35D9-4C83-B885-B88BE5586D5A%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3F1CB8D2-D2CC-4881-9343-CA5A4B23094A%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346537xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346537xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAE7D0F72-3394-49AA-B8FE-6DAC63A2B1E3%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/square-vitreous-china-rimless-wall-hung-toilet-horizontal-outlet-346537..0?sku=A346537620",
+        "Title": "SQUARE - Vitreous china Rimless wall-hung toilet with horizontal outlet",
+        "Collection": "Inspira",
+        "ref": "A346537620",
+        "Color": "Matt White",
+        "Dimensions (L/W/H)": "14 9/16 x 22 1/16 x 17 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B526E4A67-D6CE-4863-9200-8405EE0F94F5%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BAE7D0F72-3394-49AA-B8FE-6DAC63A2B1E3%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A346537620/",
+        "spec": {
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "RimType": "Rimless",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Square"
+        },
+        "docs": [
+            {
+                "Installation and user manuals": {
+                    "Installation Handbook": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6B4648E6-3A6C-4B29-AD0F-22F2B9DE13EB%7D"
+                }
+            },
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8C690EA0-0F12-48A0-9AF0-B669BB66414D%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BFC054FBB-2E84-4452-8FF5-66CCBB4090CB%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3115DDFA-58E5-461F-B157-4E463E42A685%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B595C4B5B-6A44-46E1-9D6E-6615C4F15124%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAA235B55-2AC2-4747-89AD-1548D21FDFAC%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF24C8C22-075D-4A8D-9EFD-E58AA1AA0487%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE32B8593-1CF2-4446-B050-EE3F61FF71AC%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B55CC2C4C-1AB0-453B-998F-4A134BBACC4D%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2B50F3F8-35D9-4C83-B885-B88BE5586D5A%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3F1CB8D2-D2CC-4881-9343-CA5A4B23094A%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346537xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346537xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAE7D0F72-3394-49AA-B8FE-6DAC63A2B1E3%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/square-vitreous-china-rimless-wall-hung-toilet-horizontal-outlet-346537..0?sku=A346537640",
+        "Title": "SQUARE - Vitreous china Rimless wall-hung toilet with horizontal outlet",
+        "Collection": "Inspira",
+        "ref": "A346537640",
+        "Color": "Onyx",
+        "Dimensions (L/W/H)": "14 9/16 x 22 1/16 x 17 5/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BAA956CA0-783A-4744-A38A-F39A489CEC5B%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BAE7D0F72-3394-49AA-B8FE-6DAC63A2B1E3%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A346537640/",
+        "spec": {
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "RimType": "Rimless",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Square"
+        },
+        "docs": [
+            {
+                "Installation and user manuals": {
+                    "Installation Handbook": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B6B4648E6-3A6C-4B29-AD0F-22F2B9DE13EB%7D"
+                }
+            },
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8C690EA0-0F12-48A0-9AF0-B669BB66414D%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BFC054FBB-2E84-4452-8FF5-66CCBB4090CB%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3115DDFA-58E5-461F-B157-4E463E42A685%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B595C4B5B-6A44-46E1-9D6E-6615C4F15124%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAA235B55-2AC2-4747-89AD-1548D21FDFAC%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BF24C8C22-075D-4A8D-9EFD-E58AA1AA0487%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE32B8593-1CF2-4446-B050-EE3F61FF71AC%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B55CC2C4C-1AB0-453B-998F-4A134BBACC4D%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2B50F3F8-35D9-4C83-B885-B88BE5586D5A%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B3F1CB8D2-D2CC-4881-9343-CA5A4B23094A%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346537xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/346537xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAE7D0F72-3394-49AA-B8FE-6DAC63A2B1E3%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-wall-hung-rimless-toilet-3460B7..0?sku=A3460B7000",
+        "Title": "Vitreous china wall-hung Rimless toilet",
+        "Collection": "Beyond",
+        "ref": "A3460B7000",
+        "Color": "White",
+        "Dimensions (L/W/H)": "15 9/16 x 22 13/16 x 17 8/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BA2C80F1B-8DEB-4117-B195-F587E5818245%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B7818364B-3B44-4137-92D6-E6CEAAC11031%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A3460B7000/",
+        "spec": {
+            "EmblematicWorks": "14.0062, 14.0028",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Soft"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B96B6DA51-32A7-4A4A-AF26-DD8A8FC8E451%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BA4C23B9C-D116-486C-BF77-BB1F2F2FF408%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB4E504BB-D50A-44FB-8956-5D41ED6BA5BE%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B269BB918-FA0D-4B77-BD12-6CB801FAEE87%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B7E4B7D90-F373-4C47-A601-0233C9DA284A%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B41A948FC-49B6-4809-9A5B-E911BB72EEB8%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B160017F5-71D6-4675-A518-4085A49186F6%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2DC4F54D-7339-4521-83EA-1A68C0003D4F%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B92FB9751-8361-4EC1-949D-0A7FFA3F8D44%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B4D44226E-CD33-41B0-B7E2-4ACFAF73C8B8%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3460B7xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3460B7xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B7818364B-3B44-4137-92D6-E6CEAAC11031%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-wall-hung-rimless-toilet-3460B7..0?sku=A3460B7620",
+        "Title": "Vitreous china wall-hung Rimless toilet",
+        "Collection": "Beyond",
+        "ref": "A3460B7620",
+        "Color": "Matt White",
+        "Dimensions (L/W/H)": "15 9/16 x 22 13/16 x 17 8/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BEF2586BA-A53F-48D3-AFF8-2B82DBC39A8D%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B7818364B-3B44-4137-92D6-E6CEAAC11031%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A3460B7620/",
+        "spec": {
+            "EmblematicWorks": "14.0062, 14.0028",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Soft"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B96B6DA51-32A7-4A4A-AF26-DD8A8FC8E451%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BA4C23B9C-D116-486C-BF77-BB1F2F2FF408%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB4E504BB-D50A-44FB-8956-5D41ED6BA5BE%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B269BB918-FA0D-4B77-BD12-6CB801FAEE87%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B7E4B7D90-F373-4C47-A601-0233C9DA284A%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B41A948FC-49B6-4809-9A5B-E911BB72EEB8%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B160017F5-71D6-4675-A518-4085A49186F6%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2DC4F54D-7339-4521-83EA-1A68C0003D4F%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B92FB9751-8361-4EC1-949D-0A7FFA3F8D44%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B4D44226E-CD33-41B0-B7E2-4ACFAF73C8B8%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3460B7xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3460B7xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B7818364B-3B44-4137-92D6-E6CEAAC11031%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/vitreous-china-wall-hung-rimless-toilet-3460B7..0?sku=A3460B7640",
+        "Title": "Vitreous china wall-hung Rimless toilet",
+        "Collection": "Beyond",
+        "ref": "A3460B7640",
+        "Color": "Onyx",
+        "Dimensions (L/W/H)": "15 9/16 x 22 13/16 x 17 8/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BB68AD164-8B26-42B8-A321-5437A9009B25%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B7818364B-3B44-4137-92D6-E6CEAAC11031%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A3460B7640/",
+        "spec": {
+            "EmblematicWorks": "14.0062, 14.0028",
+            "FeaturedTechnology": "Rimless",
+            "FixingKit": "Included",
+            "FlushingSystem": "Washdown",
+            "InstallationType": "Wall-hung",
+            "OutletType": "Horizontal",
+            "Rimless": "Roca Rimless\u00ae",
+            "Shape": "Soft"
+        },
+        "docs": [
+            {
+                "2D and 3D files": {
+                    "2D": {
+                        "Top view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B96B6DA51-32A7-4A4A-AF26-DD8A8FC8E451%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BA4C23B9C-D116-486C-BF77-BB1F2F2FF408%7D"
+                        },
+                        "Front view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BB4E504BB-D50A-44FB-8956-5D41ED6BA5BE%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B269BB918-FA0D-4B77-BD12-6CB801FAEE87%7D"
+                        },
+                        "Side view": {
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B7E4B7D90-F373-4C47-A601-0233C9DA284A%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B41A948FC-49B6-4809-9A5B-E911BB72EEB8%7D"
+                        }
+                    },
+                    "3D": {
+                        "3D": {
+                            "3ds": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B160017F5-71D6-4675-A518-4085A49186F6%7D",
+                            "dwg": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B2DC4F54D-7339-4521-83EA-1A68C0003D4F%7D",
+                            "dxf": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B92FB9751-8361-4EC1-949D-0A7FFA3F8D44%7D",
+                            "fbx": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B4D44226E-CD33-41B0-B7E2-4ACFAF73C8B8%7D"
+                        }
+                    }
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3460B7xx0",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/3460B7xx0"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B7818364B-3B44-4137-92D6-E6CEAAC11031%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/wall-hung-vitreous-china-toilet-sink-893020..1?sku=A893020001",
+        "Title": "Wall-hung vitreous china toilet and sink",
+        "Collection": "W+W",
+        "ref": "A893020001",
+        "Color": "White",
+        "Dimensions (L/W/H)": "33 14/16 x 19 11/16 x 29 15/16 inches",
+        "image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BD8409487-213D-4795-9441-3F53A9FE3B0C%7D&trName=TF_Mob_prod_xxl_v2",
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=0477f22d0b7c27d349210701ee7b7522&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A893020001/",
+        "spec": {
+            "BasinMixerIncluded": "Basin mixer included",
+            "BasinWithoutOverflow": "Basin without overflow",
+            "Designer": "14.14",
+            "DimensionsBasinHeightMM": "280",
+            "DimensionsBasinLengthMM": "340",
+            "DimensionsBasinWidthMM": "500",
+            "DimensionsToiletHeightMM": "410",
+            "DimensionsToiletLengthMM": "520",
+            "DimensionsToiletWidthMM": "500",
+            "Distinctions": "14.0068",
+            "EmblematicWorks": "14.0037, 14.0063",
+            "FinishMixer": "Chrome",
+            "InstallationType": "Wall-hung",
+            "MaterialBasin": "Vitreous china",
+            "MixerType": "Single lever faucet",
+            "ProgressiveCartridge": "Progressive cartridge",
+            "PublicSpaces": "Recommended for public spaces",
+            "Eco": "Sustainable product",
+            "ToiletFlushingSystem": "Washdown"
+        },
+        "docs": [
+            {
+                "Installation and user manuals": {
+                    "User Manual": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BE406FC1B-8E2F-4E7A-899C-4431EC36090C%7D",
+                    "Installation Handbook": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B1631416E-2CF3-4020-BA17-E3DCB2134EFD%7D",
+                    "Spare Parts List": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BC6CD053E-5E2F-4187-B1FD-7884537B513C%7D"
+                }
+            },
+            {
+                "Bim": {
+                    "ARCHICAD": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/893020xx1",
+                    "REVIT": "https://www.us.roca.comhttps://www.bimobject.com/en/roca/product/893020xx1"
+                }
+            },
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=0477f22d0b7c27d349210701ee7b7522"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/one-piece-toilet-vertical-outlet-s-trap-12-349486..A?sku=A34948600A",
+        "Title": "One-piece toilet with vertical outlet. S-Trap 12\"",
+        "Collection": "Inspira",
+        "ref": "A34948600A",
+        "Color": "White",
+        "Dimensions (L/W/H)": "16 9/16 x 29 2/16 x 25 9/16 inches",
+        "image": null,
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7BAD98413D-06C7-4262-8560-188F3D91A2EF%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A34948600A/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ElbowIncluded": "Elbow included",
+            "FixingKit": "Included",
+            "FlushingSystem": "Siphonic",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Vertical",
+            "Shape": "Elongated"
+        },
+        "docs": [
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7BAD98413D-06C7-4262-8560-188F3D91A2EF%7D"
+                }
+            }
+        ]
+    },
+    {
+        "Product Page URL": "https://www.us.roca.com/products/one-piece-toilet-s-trap-12single-flush-1-28gpf-34948D..A?sku=A34948D00A",
+        "Title": "One-piece toilet S-trap 12\", single flush 1.28 GPF",
+        "Collection": "Debba",
+        "ref": "A34948D00A",
+        "Color": "White",
+        "Dimensions (L/W/H)": "14 x 29 2/16 x 29 15/16 inches",
+        "image": null,
+        "diminsion image": "https://www.us.roca.com/RocaResourceServlet/resources/getTransformation?idObject=%7B8C875652-304F-4372-AD0A-CEF776A06921%7D&trName=TF_Mob_tecn",
+        "Factsheet": "https://www.us.roca.com/roca-services/productSheet30/US/en/A34948D00A/",
+        "spec": {
+            "BackToWall": "Back to wall",
+            "ComfortHeight": "Comfort height",
+            "FixingKit": "Included",
+            "FlushingSystem": "Siphonic",
+            "InstallationType": "Floorstanding",
+            "OutletType": "Vertical",
+            "Shape": "Round"
+        },
+        "docs": [
+            {
+                "Technical drawings": {
+                    "Technical drawings": "https://www.us.roca.com/RocaResourceServlet/resources/getMainResource?idObject=%7B8C875652-304F-4372-AD0A-CEF776A06921%7D"
+                }
+            }
+        ]
+    }
+]
